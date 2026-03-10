@@ -1,0 +1,39 @@
+
+/* .container{
+    color: black;
+}
+
+.game-card img{
+    width:100%;
+    border-radius:10px;
+}
+
+.game-title{
+    text-align:center;
+    font-weight:bold;
+    margin-top:15px;
+    font-size:70px;
+}
+
+.red{
+    color:red;
+}
+.white{
+    color:white;
+}
+.body{
+    background-color: black; */
+.hero-section p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+/* .img{
+height:250px;
+object-fit:cover;
+border-radius:5px;
+transition:0.3s;
+}
+
+.img:hover{
+transform:scale(1.05);
+} */
